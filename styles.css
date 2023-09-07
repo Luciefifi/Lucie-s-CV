@@ -71,7 +71,7 @@ section.profile{
 }
 .line{
     width: 1px;
-    height: 460px;
+    height: auto;
     background-color: black;
 }
 .header{
